@@ -19,4 +19,4 @@ social: true # includes social icons at the bottom of the page
 
 I am Hanfeng Wu(吴瀚枫), currently enrolled as a Master student majoring in computer science at TU Munich, where I also acquired my Bachelor's degree. I conducted my Master's thesis at ETH Zürich supervised by [Prof. Konrad Schindler](https://prs.igp.ethz.ch/group/people/person-detail.schindler.html) and [Prof. Stefan Leutenegger](https://srl.cit.tum.de/members/leuteneg) from TU Munich. Before that, I was a Research Intern at Huawei Munich Research Center and a Software Engineer Intern at Apple Munich.
 
-My research interests are in computer vision particularly in 3D scene understanding and neural rendering.
+My research interests lie in computer vision particularly in 3D scene understanding and neural rendering.
